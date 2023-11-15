@@ -141,6 +141,7 @@ const Main = () => {
         <div className="certificate_container bd-grid">
           <div className="certificate_content">
             <h3 className="certificate_title">HackerRank Certificate</h3>
+            <p className="certificate_title">Basic JavaScript</p>
           </div>
         </div>
       </section>
