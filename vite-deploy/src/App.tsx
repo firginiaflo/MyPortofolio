@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
@@ -23,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
       <p className="read-the-docs">
@@ -34,15 +33,3 @@ function App() {
 }
 
 export default App
-=======
-import "./App.css";
-import Homepage from "./Pages/Homepage";
-import "./assets/css/style.css";
-// import "../public/js/main.js"
-
-
-function App() {
-  return <Homepage/>
-}
-export default App;
->>>>>>> efd332fdaa5ab1a7e375c6d373504843f4319433
